@@ -1,0 +1,9 @@
+{
+  "name":"Erie Defensive Tracker",
+  "short_name":"Erie Defense",
+  "start_url":"./",
+  "display":"standalone",
+  "orientation":"landscape",
+  "background_color":"#f3f4f6",
+  "theme_color":"#111827"
+}
